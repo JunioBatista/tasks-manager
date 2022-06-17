@@ -8,7 +8,6 @@ import { ListarTarefasComponent } from './tarefas/listar'
 @NgModule({
   declarations: [
     AppComponent,
-    ListarTarefasComponent
   ],
   imports: [
     AppRoutingModule,
